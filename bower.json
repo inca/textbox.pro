@@ -1,0 +1,29 @@
+{
+  "name": "textbox.pro",
+  "description": "Just text. Plus rien.",
+  "version": "0.0.0",
+  "authors": [
+    "Boris Okunskiy <boris@okunksiy.name>"
+  ],
+  "dependencies": {
+    "jquery": null,
+    "requirejs": null
+  },
+  "keywords": [
+    "text",
+    "editor",
+    "plain",
+    "semantic",
+    "awesome"
+  ],
+  "license": "MIT",
+  "homepage": "https://textbox.pro",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
